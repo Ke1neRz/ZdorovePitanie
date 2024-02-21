@@ -1,0 +1,48 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+li {
+  margin: 15px 0px 15px;
+}
+/* Заголовок */
+h1 {
+  font-size: clamp(16px, 2.9vw, 100px);
+}
+/* Заголовок */
+
+/* Carousel */
+.my-carousel {
+  padding: 0;
+}
+/* Carousel */
+
+/* Что такое Здоровое питание */
+/* Что такое Здоровое питание */
+
+/* текст 1(Удовлетворение голода...) */
+/* текст 1(Удовлетворение голода...) */
+
+/* карта - сбалансированное питание */
+.container-green {
+  background: rgb(154, 255, 176);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.green-footer {
+  font-weight: bold;
+  background: rgba(3, 163, 59, 0.521);
+  border-radius: 10px;
+}
+/* карта - сбалансированное питание */
+
+/* текст 2(Основные факторы здорового образа жизни.) */
+/* текст 2(Основные факторы здорового образа жизни.) */
+
+/* footer */
+footer {
+  padding: 30px 0;
+  color: rgb(255, 255, 255);
+  background-color: rgba(0, 0, 0, 0.786);
+}
+/* footer */
